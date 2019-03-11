@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/KhirwalSumeet/node-autoupdater#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "github-webhook-handler": "0.7.1",
+    "http" : "0.0.0"
   }
 }
